@@ -1,0 +1,10 @@
+Hi
+This is my first project at GIT.
+I have learned git commands like - git status //to get status for untracked and tracked files in repo
+-git commit -m "" // commit all the changes in repo
+-git init // initialise the repo
+-git checkout // switch from one branch to another branch
+-git checkout -b <branchname> //switch to specific branch
+-git push
+-git pull
+
